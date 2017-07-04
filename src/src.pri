@@ -1,0 +1,1 @@
+include(../qtwebserver/qtwebserver.pri)
